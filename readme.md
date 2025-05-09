@@ -3,7 +3,7 @@ This repository hosts the data and replication code for various parts of my Poli
 
 ### Replication
 Download the replication files (all zipped) in this repository. They use five R packages (dplyr, estimatr, ggplot2, readr, sf).
-* Difference-in-difference analyses: [didanalysis.zip]([https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/didanalysis.zip])
+* Difference-in-difference analyses: [didanalysis.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/didanalysis.zip)
 * Demographic analysis: [demographics.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/demographics.zip)
 * Spatial joins: [spatialjoins.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/spatialjoins.zip)
 * Visuals: [visuals.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/visuals.zip)
