@@ -7,5 +7,5 @@ This repository hosts the data and replication code for various parts of my Poli
 * Spatial joins: [spatialjoins.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/spatialjoins.zip)
 * Visuals: [visuals.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/visuals.zip)
 
-### Issues & Questions
+### Questions
 Feel free to reach out by [email](mailto:jackguan@berkeley.edu).
