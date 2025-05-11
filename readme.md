@@ -3,9 +3,9 @@ This repository hosts the data and replication code for various parts of my Poli
 
 ### Replication
 * Difference-in-difference analyses: [didanalysis.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/didanalysis.zip)
-* Demographic analysis: [demographics.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/demographics.zip)
-* Spatial joins: [spatialjoins.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/spatialjoins.zip)
-* Visuals: [visuals.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/visuals.zip)
+* Demographic analysis: [demographics.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/demographics.zip)
+* Spatial joins: [spatialjoins.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/spatialjoins.zip)
+* Visuals: [visuals.zip](https://github.com/jackkguan/West-Coast-Liberalism-Data/blob/main/visuals.zip)
 
 ### Questions
 Feel free to reach out by [email](mailto:jackguan@berkeley.edu).
